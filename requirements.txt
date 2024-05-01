@@ -1,0 +1,7 @@
+aiohttp
+aiortc
+opencv-python
+python-dotenv==1.0.0
+openai==1.4.0
+deepgram-sdk
+elevenlabs==0.2.27
